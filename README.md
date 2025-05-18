@@ -38,7 +38,7 @@ I’m **Salil Kelkar**, a strategic Bid Manager at **Siemens Energy**, where pre
 ### 🐍 Snake Game Python
 > A retro arcade-style Snake game built in Python — eat, grow, and survive as long as you can!
 
- 🎮 Classic Snake gameplay mechanics
+  🎮 Classic Snake gameplay mechanics
 
 - 🍎 Random food spawning with score tracking  
 - 🚧 Wall & self-collision detection  
