@@ -99,6 +99,10 @@ I’m passionate about:
 Want to collaborate on a project, or just geek out about energy, embedded tech, or AI?  
 **Reach out to me — I’m all ears!**
 
+## My Gmail :
+kelkarsalil@gmail.com 
+kelkaryatharth@gmil.com
+
 > _“Turning vision into value — powering energy and coding smart solutions for a better tomorrow.”_
 
 ---
