@@ -26,6 +26,16 @@ Just like my alter ego **Yatharth Kelkar**, I build tech that bridges the real a
 
 ## 🚀 Featured Projects
 
+### 💬 **Smart AI Chatbot (Java + Python Hybrid)**
+> A personal assistant that understands context, solves math, draws graphs, stores chat history — all with a dark mode twist.
+- 📐 Math solver & equation engine
+- 📊 Real-time graph plotting
+- 🌙 Dark Mode
+- 🧠 GPT-powered conversational backend
+- 📁 Chat history management
+
+---
+
 ### 📦 **Fast Food Ordering GUI (Tkinter-Powered)**
 > A blazing fast ordering app with a sleek GUI that lets users browse, add, and pay for fast food items like a pro.
 - 👨‍🍳 Item selection, price calculation
@@ -36,15 +46,6 @@ Just like my alter ego **Yatharth Kelkar**, I build tech that bridges the real a
 
 ---
 
-### 💬 **Smart AI Chatbot (Java + Python Hybrid)**
-> A personal assistant that understands context, solves math, draws graphs, stores chat history — all with a dark mode twist.
-- 📐 Math solver & equation engine
-- 📊 Real-time graph plotting
-- 🌙 Dark Mode
-- 🧠 GPT-powered conversational backend
-- 📁 Chat history management
-
----
 
 ### 🍽️ **Food Rescue Node (Arduino + Sensors)**
 > A revolutionary hardware system that detects leftover food, checks freshness, collects location data, and alerts NGOs or food banks for collection.
