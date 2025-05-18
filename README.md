@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm **Salil Kelkar**
 
-### 🔌 Bid Manager @ Siemens Energy | ⚙️ Full-Stack Innovator | 🧠 Creative Tech Enthusiast | 🌍 Smart Solutions Advocate
+### 🔌 Bid Manager @ Siemens Energy | ⚙️ Full-Stack Innovator | 🧠 Creative Tech Enthusiast 
 
 ---
 
