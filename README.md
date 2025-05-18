@@ -35,7 +35,7 @@ I’m **Salil Kelkar**, a strategic Bid Manager at **Siemens Energy**, where pre
 - 📁 Chat history management
 
 ---
-###🐍 **Snake Game Python**
+<h3>🐍 **Snake Game Python**</h3>
 >A retro arcade-style Snake game built in Python — eat, grow, and survive as long as you can!
 
 -🎮 Classic Snake gameplay mechanics
