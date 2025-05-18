@@ -7,7 +7,7 @@
 💼 **Who Am I?**  
 I’m **Salil Kelkar**, a strategic Bid Manager at **Siemens Energy**, where precision, foresight, and innovation fuel everything I do. I manage high-value energy proposals that shape the infrastructure of tomorrow — and when I’m not driving energy bids, I dive deep into the world of cutting-edge technology, embedded systems, and intelligent software solutions.
 
-Just like my alter ego **Yatharth Kelkar**, I build tech that bridges the real and the digital, solving everyday problems in smart, scalable ways.
+
 
 ---
 
