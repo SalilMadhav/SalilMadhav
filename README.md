@@ -35,6 +35,20 @@ I’m **Salil Kelkar**, a strategic Bid Manager at **Siemens Energy**, where pre
 - 📁 Chat history management
 
 ---
+###🐍 **Snake Game Python**
+>A retro arcade-style Snake game built in Python — eat, grow, and survive as long as you can!
+
+-🎮 Classic Snake gameplay mechanics
+
+-🍎 Random food spawning with score tracking
+
+-🚧 Wall & self-collision detection
+
+-🔄 Restartable game loop
+
+-🖥️ Simple and clean Python codebase
+
+---
 
 ### 📦 **Fast Food Ordering GUI (Tkinter-Powered)**
 > A blazing fast ordering app with a sleek GUI that lets users browse, add, and pay for fast food items like a pro.
